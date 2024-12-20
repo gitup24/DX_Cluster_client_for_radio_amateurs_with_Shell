@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# make executable : chmod +x client.sh
+# execute : ./client.sh
+
 # Configuration
 DX_SERVER="dxc.nc7j.com"
 DX_PORT=7373
